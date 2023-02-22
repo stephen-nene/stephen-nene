@@ -1,5 +1,5 @@
-- # Hi there 👋
-- 👋 Hi, I’m @stephen-nene
+- # 👋 Hi, I’m @stephen-nene
+-  Hi there 👋
 - 👀 I’m interested in software-development and cyber-security
 - 🌱 I’m currently learning full-stack development alongside basics to cyber-Security
 - 💞️ I’m looking to collaborate on all IT related jobs
@@ -18,3 +18,8 @@ I'm Stephen, a full-stack developer with a passion for software development and 
 stephen-nene/stephen-nene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+## Contact Me
+Email: (stevekid705@gmail.com)[stevekid705@gmail.com]
+LinkedIn: (linkedin.com/in/stephen-nene/)[linkedin.com/in/stephen-nene/]
+<!-- Personal website: www.stephennene.com -->
