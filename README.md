@@ -1,3 +1,4 @@
+- # Hi there 👋
 - 👋 Hi, I’m @stephen-nene
 - 👀 I’m interested in software-development and cyber-security
 - 🌱 I’m currently learning full-stack development alongside basics to cyber-Security
