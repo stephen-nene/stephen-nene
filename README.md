@@ -20,6 +20,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Contact Me
-Email: (stevekid705@gmail.com)[stevekid705@gmail.com]
-LinkedIn: (linkedin.com/in/stephen-nene/)[linkedin.com/in/stephen-nene/]
+1. Email: [stevekid705@gmail.com](stevekid705@gmail.com)
+2. LinkedIn: [linkedin.com/in/stephen-nene/](linkedin.com/in/stephen-nene/)
 <!-- Personal website: www.stephennene.com -->
