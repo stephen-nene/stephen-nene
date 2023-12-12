@@ -25,4 +25,4 @@ You can click the Preview link to take a look at your changes.
 2. LinkedIn: [linkedin.com/in/stephen-nene/](linkedin.com/in/stephen-nene/)
 <!-- Personal website: www.stephennene.com -->
 
-[![GitHub Trends SVG](https://api.githubtrends.io/stephen-nene/svg/avgupta456/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://www.githubwrapped.io/stephen-nene/2023)](https://githubtrends.io)
