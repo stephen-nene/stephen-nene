@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning full-stack development alongside basics to cyber-Security
 - 💞️ I’m looking to collaborate on all IT related jobs
 - 📫 How to reach me stevekid705@gmail.com
+- Portfolio [nene-steve](https://nene-steve.vercel.app/)
 
 I'm Stephen, a full-stack developer with a passion for software development and cybersecurity. I'm always looking to learn and improve my skills in these areas. Here are some of the technologies and tools I'm experienced with:
 
@@ -23,3 +24,5 @@ You can click the Preview link to take a look at your changes.
 1. Email: [stevekid705@gmail.com](stevekid705@gmail.com)
 2. LinkedIn: [linkedin.com/in/stephen-nene/](linkedin.com/in/stephen-nene/)
 <!-- Personal website: www.stephennene.com -->
+
+[![GitHub Trends SVG](https://api.githubtrends.io/stephen-nene/svg/avgupta456/langs)](https://githubtrends.io)
