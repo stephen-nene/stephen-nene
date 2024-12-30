@@ -85,7 +85,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Contact Me
 1. Email: [stevekid705@gmail.com](stevekid705@gmail.com)
-2. LinkedIn: [linkedin.com/in/stephen-nene/](linkedin.com/in/stevenene/)
+2. LinkedIn: [linkedin.com/in/stevenene/](https://www.linkedin.com/in/stevenene)
 <!-- Personal website: www.stephennene.com -->
 
 # Stats
