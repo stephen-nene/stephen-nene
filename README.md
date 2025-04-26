@@ -82,6 +82,9 @@ I'm a **Full-Stack Developer** with a passion for **software development** and *
 | [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/stephen-nene/langs?time_range=six_months&include_private=true&group=private&loc_metric=changed&theme=dark)](https://githubtrends.io) | [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/stephen-nene/langs?time_range=one_year&theme=bright_lights)](https://githubtrends.io) | [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/stephen-nene/langs?time_range=all_time&theme=synthwaves)](https://githubtrends.io) |
 | [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/stephen-nene/repos?time_range=six_months&include_private=true&group=private&loc_metric=changed&theme=dark)](https://githubtrends.io) | [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/stephen-nene/repos?time_range=one_year&include_private=true&group=private&loc_metric=changed&theme=bright_lights)](https://githubtrends.io) | [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/stephen-nene/repos?time_range=all_time&include_private=true&group=private&loc_metric=changed&theme=synthwaves)](https://githubtrends.io) |
 
+## **Waka TiMe**
+
+ ![Img](https://wakatime.com/share/@48a1c49d-c5f4-4f5c-b7b9-dc1fcdd31b24/9f85929c-2248-4c6e-af5c-91564c325c6c.png)
 ---
 
 ## 📫 **Connect with Me**
