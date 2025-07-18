@@ -84,7 +84,8 @@ I'm a **Full-Stack Developer** with a passion for **software development** and *
 
 ## **Waka TiMe**
 
- ![Img](https://wakatime.com/share/@48a1c49d-c5f4-4f5c-b7b9-dc1fcdd31b24/9f85929c-2248-4c6e-af5c-91564c325c6c.png)
+
+ ![image](https://wakatime.com/share/@48a1c49d-c5f4-4f5c-b7b9-dc1fcdd31b24/dd804ae0-0e01-46d1-8df0-b9a3984b6f85.png)
 ---
 
 ## 📫 **Connect with Me**
